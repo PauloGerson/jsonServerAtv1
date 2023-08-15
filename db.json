@@ -1,11 +1,15 @@
 {
-  "pessoa": {
-    "nome": "Ana",
-    "email": "ana@example.com",
-    "notas": {
-      "n1": 8.5,
-      "n2": 7.2,
-      "n3": 9.0
+  "alunos": [
+    {
+      "pessoa": {
+        "nome": "Ana",
+        "email": "ana@example.com",
+        "notas": {
+          "n1": 8.5,
+          "n2": 7.2,
+          "n3": 9.0
+        }
+      }
     }
-  }
+  ]
 }
