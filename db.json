@@ -3,7 +3,7 @@
     {
       "pessoa": {
         "nome": "Ana",
-        "email": "ana@example.com",
+        "ano_nascimento": 1984,
         "notas": {
           "n1": 8.5,
           "n2": 7.2,
